@@ -2,6 +2,10 @@
 
 class Cat 
   
-  attr_accessor :
+  attr_accessor :meow
+  
+  def meow
+    puts ""
+  end 
   
 end 
